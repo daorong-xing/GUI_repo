@@ -1,3 +1,5 @@
 # GUI_repo
 GUI practice
-try
+1. Tkinter
+2. Pandas
+3. Matplotlib
